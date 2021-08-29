@@ -148,6 +148,7 @@ header {
   margin: 7px 30px 7px 30px;
   text-decoration: none;
   color: white;
+  cursor: pointer;
 }
 
 .nav__link:hover {
@@ -463,6 +464,7 @@ header {
 .accordion__header {
   position: relative;
   border-bottom: 1px solid #e5e5e5;
+  cursor: pointer;
 }
 
 .accordion__header:after {
